@@ -1,4 +1,4 @@
 #Example Repository
-This is simple repo, hello woeld!
+This is simple repo, hello coders!
 
-.md = Markdown
+This is a second change.
